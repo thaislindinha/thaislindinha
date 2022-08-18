@@ -1,6 +1,6 @@
 # Sobre mim
 
-- 👋 Hi, I’m @thaislindinha
+- 👋 olá eu sou @thaislindinha
 - 👍meu email de contato é thais.ribas.ramos@escola.pr.gov.br
 - 👀 Estou interresado em aprender a progamar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
